@@ -1,0 +1,147 @@
+{
+  "user": [
+    {
+      "name": "Deepak Solanki",
+      "email": "deep@gmail.com",
+      "password": "123456",
+      "mobile": "9510587042",
+      "status": "unblock",
+      "id": "1696064847355"
+    },
+    {
+      "name": "mukesh ",
+      "email": "mukesh@gmail.com",
+      "password": "1234",
+      "mobile": "1234567890",
+      "status": "unblock",
+      "id": "1696064115607"
+    },
+    {
+      "name": "Jainsih Patel",
+      "email": "jai@gmail.com",
+      "password": "123456",
+      "mobile": "123456654",
+      "status": "unblock",
+      "id": "1696064139505"
+    },
+    {
+      "name": "surendra",
+      "email": "suri@gmail.com",
+      "password": "123456",
+      "mobile": "1234569870",
+      "status": "unblock",
+      "id": "1696065279688"
+    }
+  ],
+  "categories": [
+    {
+      "cate_name": "Man",
+      "cate_desc": "T-shirts",
+      "cate_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-F72_SZxU7G3yhPJifvoNcyN5yFmS7fE4achfuCJCISRSPN4v9ixYeHlpR7-AjKjYNM&usqp=CAU",
+      "id": "1696844648613"
+    }
+  ],
+  "productname": [
+    {
+      "id": 1,
+      "cate_name": "Man",
+      "title": "Men Watch",
+      "main_price": "399",
+      "disc_price": "255",
+      "desc": "Men Watch",
+      "pro_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyC4BQ5yiz5vbNAHhZod4SIn4ykkmL8zii6A&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "cate_name": "Female",
+      "title": "Female Watch",
+      "main_price": "499",
+      "disc_price": "355",
+      "desc": "Female Watch",
+      "pro_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OHOC7KZJTwVkDuxgGqI95-EHTtnGy86xqw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "cate_name": "Man Ring",
+      "title": "Man Ring",
+      "main_price": "599",
+      "disc_price": "499",
+      "desc": "Male Ring",
+      "pro_img": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 4,
+      "cate_name": "Woman Ring",
+      "title": "Woman Ring",
+      "main_price": "899",
+      "disc_price": "799",
+      "desc": "Female Ring",
+      "pro_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHHEpTlq27xSOaSKGHCTobUpoRBG2wr7w9w&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "cate_name": "Flower Bouquet",
+      "title": "Flower Bouquet",
+      "main_price": "199",
+      "disc_price": "99",
+      "desc": "Flower Bouquet",
+      "pro_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nleD5wIuf0uhNgY4IaQ2pDJ0PgLYM7WUPQ&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "cate_name": "Teddy Bear",
+      "title": "Teddy Bear",
+      "main_price": "349",
+      "disc_price": "199",
+      "desc": "Teddy Bear",
+      "pro_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQ8zJmmJRM2B-9jCPpzP9e34Q1H6d-2apRw&usqp=CAU"
+    },
+    {
+      "cate_name": "dfbdrb",
+      "title": "dfbfdbd",
+      "main_price": "14174",
+      "disc_price": "7171",
+      "desc": "ddrdrbd",
+      "id": "1696845485026",
+      "pro_img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWll3c4wbh9gbP6bcxsykOTTS35kxdmwYgoSAMRfGvJMrI7cKBWpUTFgOuLzZEA0yOfeVmfV4WoLswgrHnkz20rAMnwcqA-uRVF28DC5qIKkeM-BLxqY7Z-HE"
+    }
+  ],
+  "contact": [
+    {
+      "name": "Deep",
+      "email": "solanki@gmail.com",
+      "mobile": "9510587042",
+      "msg": "hello ",
+      "id": "1694686040720"
+    },
+    {
+      "name": "Shivam",
+      "email": "shiv@gmail.com",
+      "mobile": "121212122",
+      "msg": "hii",
+      "id": "1694686291829"
+    },
+    {
+      "name": "jainsih",
+      "email": "j@gmail.pom",
+      "mobile": "1234567890",
+      "msg": "hii",
+      "id": "1694686439789"
+    },
+    {
+      "name": "Mukesh",
+      "email": "mukesh@gmail.com",
+      "mobile": "1234567890",
+      "msg": "hii",
+      "id": "1694687203212"
+    },
+    {
+      "name": "deepak Solanki",
+      "email": "deepak@gmail.com",
+      "mobile": "9510587042",
+      "msg": "dfnhgfnfnfn",
+      "id": "1696843509534"
+    }
+  ],
+  "manage_admin": []
+}
